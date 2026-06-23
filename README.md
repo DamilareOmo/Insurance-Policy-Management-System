@@ -8,11 +8,12 @@ policy management system. It manages **policyholders**, **products**, and
 
 ```
 policy_system/
-├── policyholder.py   # Policyholder class: register, suspend, reactivate
-├── product.py         # Product class: create, update, suspend/reactivate
-├── payment.py          # Payment class: process payments, reminders, penalties
-├── main.py            # Demonstration script that ties everything together
-└── README.md           # This file
+├── policyholder.py       # Policyholder class: register, suspend, reactivate
+├── product.py            # Product class: create, update, suspend/reactivate
+├── payment.py            # Payment class: process payments, reminders, penalties
+├── main.py               # Demonstration script that ties everything together
+├── policy_system.ipynb   # Demonstration script that ties everything together
+└── README.md             # This file
 ```
 
 ## Requirements
@@ -101,4 +102,4 @@ The script will:
 
 ## Author
 
-Submitted as Milestone 1 Assignment — Insurance Policy Management System.
+Sodiq Omoniyi | Software Engineer | Milestone 1 - Insurance Policy Management System.
